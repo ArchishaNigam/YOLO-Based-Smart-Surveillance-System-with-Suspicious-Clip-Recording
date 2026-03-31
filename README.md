@@ -42,6 +42,8 @@ Run the Project: python main.py
 
 Saved suspicious clips will be stored in the output/ folder.
 
+NOTE: PRESS THE ESC KEY TO EXIT
+
 Future improvments:
 1. real time notifications/alerts
 2. cloud storage
